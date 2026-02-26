@@ -1,0 +1,21 @@
+﻿{
+    "instruments":  "BS-800",
+    "batches":  [
+                    "常规化学202601",
+                    "常规化学202602"
+                ],
+    "batch_templates":  "常规化学{year}{value}",
+    "batch_template_selected":  "常规化学{year}{value}",
+    "batch_template_default":  "常规化学{year}{value}",
+    "exclude_keywords":  [
+                             "Anti-HCV",
+                             "APOA-1",
+                             "APOB",
+                             "HBcAb",
+                             "HBeAb",
+                             "HBeAg",
+                             "HBsAb",
+                             "HBsAg",
+                             "Syphilis"
+                         ]
+}
